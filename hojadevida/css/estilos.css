@@ -1,0 +1,18 @@
+body{
+background-color: #656d4a;
+margin: 0;
+padding: 0;
+
+}
+
+header{
+background-color: #a68a64;
+padding: 15px;
+margin: 10px;
+border-radius: 10px;
+}
+main{
+background-color: #c2c5aa;
+height: 2000px;
+padding: 15px;
+}
